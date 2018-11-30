@@ -102,6 +102,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 export MANPAGER="nvim -c 'set ft=man' -"
+export PATH=$PATH:/home/maklimcz/julia:/home/maklimcz/Work/git-svn-diff/:/home/maklimcz/thunderbird/
 
 alias vimrc="vim ~/.config/nvim/init.vim"
 alias bashrc="vim ~/.bashrc"
